@@ -6,3 +6,5 @@ Flexbox helps you design your webpage so that it looks good on any screen size.
 In this course, you'll use Flexbox to build a responsive photo gallery webpage.
 
 Completed on 3.26.2025
+
+<img src="/Screenshots/flexbox-photo-gallery.png" width="300px" alt="Screenshot of photo gallery">
